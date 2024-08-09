@@ -39,4 +39,4 @@ $y=2;
 $x=$x+$y;
 $y=$x-$y;
 $x=$x-$y;
-echo "x={$x}, y={$y}";
+echo "x={$x}, y={$y}";# PHP_basics
